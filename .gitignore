@@ -5,3 +5,4 @@ bin
 include
 pyvenv.cfg
 app.log
+__pycache__
